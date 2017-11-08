@@ -1,0 +1,18 @@
+﻿  pong.cpp
+pong.cpp(70): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+pong.cpp(95): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+pong.cpp(96): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+pong.cpp(135): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+pong.cpp(136): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+pong.cpp(144): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+pong.cpp(145): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+pong.cpp(174): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+pong.cpp(177): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+pong.cpp(178): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+pong.cpp(181): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  3 of 140 functions ( 2.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  pong.vcxproj -> D:\Visual Studio Projects\School\Pong\pong\Release\pong.exe
